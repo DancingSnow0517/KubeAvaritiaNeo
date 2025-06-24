@@ -1,0 +1,1 @@
+cn.dancingsonw.kube_avaritia_neo.KubeAvaritiaNeoPlugin
